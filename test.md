@@ -1,4 +1,4 @@
-web----
+wcc-web
 =======
 !function($){
 	
